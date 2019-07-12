@@ -1,5 +1,5 @@
 /*
-	"TKO DieBaustelle" v 1 static mission for Australia.
+	"TKO DieBaustelle" v 1 static mission for Rosche.
 */
 
 private ["_AICount", "_AIMaxReinforcements", "_AItrigger", "_AIwave", "_AIdelay", "_staticguns", "_missionObjs", "_crate0", "_cash0", "_crate_loot_values0", "_crate_weapons0", "_crate_items0", "_difficultyM", "_difficulty", "_PossibleDifficulty", "_msgWIN", "_vehicle", "_pinCode", "_VehicleChance"];
